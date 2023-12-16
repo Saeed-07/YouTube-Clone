@@ -58,7 +58,7 @@
 
 .search-bar:focus {
     outline: 1px solid #1f5cc6;
-    outline-offset: -1px;
+    outline-offset: -2px;
 }
 
 .search-icon {
