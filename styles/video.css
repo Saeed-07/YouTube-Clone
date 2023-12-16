@@ -7,19 +7,19 @@
 
 
 
-@media (max-width: 1150px) {
+@media (max-width: 920px) {
     .video-grid{
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (min-width: 1151px) and (max-width: 1349px) {
+@media (min-width: 921px) and (max-width: 1049px) {
     .video-grid {
         grid-template-columns: 1fr 1fr 1fr;
     }
 }
 
-@media (min-width: 1350px) {
+@media (min-width: 1050px) {
     .video-grid {
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
