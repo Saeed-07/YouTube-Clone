@@ -49,7 +49,7 @@
     border-radius: 2px;
     border: 1px solid rgb(204, 204, 204);
     box-shadow: inset 0px 1px 2px #eeeeee;
-    max-width: 500px;
+    max-width: 400px;
 }
 
 .search-bar::placeholder {
